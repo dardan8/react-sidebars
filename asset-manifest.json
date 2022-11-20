@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/react-sidebars/static/css/main.840f4cee.css",
+    "main.css": "/react-sidebars/static/css/main.bbd838ee.css",
     "main.js": "/react-sidebars/static/js/main.81ea3a5e.js",
     "static/js/787.7efd31bd.chunk.js": "/react-sidebars/static/js/787.7efd31bd.chunk.js",
     "static/media/user-avatar2.PNG": "/react-sidebars/static/media/user-avatar2.89171096ec83bc7a39c6.PNG",
@@ -9,12 +9,12 @@
     "static/media/Teams.svg": "/react-sidebars/static/media/Teams.f8ab70f8c0c0faa5c7227c0f576df937.svg",
     "index.html": "/react-sidebars/index.html",
     "static/media/Slack.svg": "/react-sidebars/static/media/Slack.639319034d8c94e5878f689f39c9a16c.svg",
-    "main.840f4cee.css.map": "/react-sidebars/static/css/main.840f4cee.css.map",
+    "main.bbd838ee.css.map": "/react-sidebars/static/css/main.bbd838ee.css.map",
     "main.81ea3a5e.js.map": "/react-sidebars/static/js/main.81ea3a5e.js.map",
     "787.7efd31bd.chunk.js.map": "/react-sidebars/static/js/787.7efd31bd.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.840f4cee.css",
+    "static/css/main.bbd838ee.css",
     "static/js/main.81ea3a5e.js"
   ]
 }

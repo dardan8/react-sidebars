@@ -1,6 +1,6 @@
 # React Sidebar
 
-Simple sidebar build with React
+Simple sidebar built with React
 
 ## Available Scripts
 

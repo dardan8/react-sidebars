@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/dardan8.github.io/react-sidebars/static/css/main.ada5ec60.css",
+    "main.js": "/dardan8.github.io/react-sidebars/static/js/main.64af6b3b.js",
+    "static/js/787.7efd31bd.chunk.js": "/dardan8.github.io/react-sidebars/static/js/787.7efd31bd.chunk.js",
+    "static/media/user-avatar2.PNG": "/dardan8.github.io/react-sidebars/static/media/user-avatar2.89171096ec83bc7a39c6.PNG",
+    "static/media/bg-blurry.webp": "/dardan8.github.io/react-sidebars/static/media/bg-blurry.1eeef3a71d676283bc6a.webp",
+    "static/media/Jira.png": "/dardan8.github.io/react-sidebars/static/media/Jira.f73d91c6adf3ef463b67.png",
+    "static/media/Teams.svg": "/dardan8.github.io/react-sidebars/static/media/Teams.f8ab70f8c0c0faa5c7227c0f576df937.svg",
+    "index.html": "/dardan8.github.io/react-sidebars/index.html",
+    "static/media/Slack.svg": "/dardan8.github.io/react-sidebars/static/media/Slack.639319034d8c94e5878f689f39c9a16c.svg",
+    "main.ada5ec60.css.map": "/dardan8.github.io/react-sidebars/static/css/main.ada5ec60.css.map",
+    "main.64af6b3b.js.map": "/dardan8.github.io/react-sidebars/static/js/main.64af6b3b.js.map",
+    "787.7efd31bd.chunk.js.map": "/dardan8.github.io/react-sidebars/static/js/787.7efd31bd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ada5ec60.css",
+    "static/js/main.64af6b3b.js"
+  ]
+}

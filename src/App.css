@@ -1,0 +1,22 @@
+.App {
+display: flex;
+align-items: center;
+justify-content: flex-start;
+font-family: 'Roboto', sans-serif;
+background: url('./assets/bg-blurry.webp') no-repeat;
+background-blend-mode: screen;
+animation: pan 5s infinite alternate linear;
+}
+
+ul, ul li {
+text-decoration: none;
+list-style: none;
+padding: 0;
+margin: 0;
+}
+
+@keyframes pan {
+    100% {
+        background-position: 15% 50%;
+    }
+}
